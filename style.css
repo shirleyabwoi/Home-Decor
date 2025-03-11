@@ -1,0 +1,419 @@
+body{
+    background-color: rgb(241, 232, 232);
+    border: 2px;
+    
+}
+.Whole{
+    position: relative;
+    left: 250px;
+    background-color: white;
+    width: 80%;
+    max-height: fit-content;
+
+}
+.rectangle{
+    margin-top: -12%;
+    margin-left: 80%;
+    height: 300px;
+    width: 500px;
+    background-color: #555;
+    transform: rotate(330deg);
+    z-index: -1;
+    overflow: hidden;
+    border-radius: 130px 0px 0px 0px;
+    
+}
+#decorim{
+    margin-top: -100px;
+    border-radius: 0px 30px 0px 0px;
+    position: relative;
+    
+}
+.carra{
+    padding: 50px;
+    margin-top: 25px;
+    
+}
+
+li {
+    display: inline;
+    padding: 20px;
+  }
+  .menubar{
+    list-style-type: none;
+    margin-top: 100px;
+    
+  }
+  .topmenu{
+    padding: 1px;
+    margin: auto;
+    width: 40%;
+
+  }
+  
+  #boldpar{
+    font-size: 70px;
+  }
+  #submit-button{
+    color: white;
+    background-color: rgb(75, 74, 74);
+    border-radius: 50px;
+    border: none;
+    padding: 15px 20px;
+    margin: 4px 2px;
+    height: 90px;
+    width: 220px;
+    font-size: 20px;
+
+
+  }
+  .watch{
+    display: flex;
+    gap: 30px;
+    
+    
+  }
+  .playicon {
+    background-color: rgb(200, 200, 219);
+    font-size: 20px;
+    border-radius: 10px;
+    width: 45px;
+    height: 45px;
+    align-content: center;
+    margin-top: 20px;
+    
+    
+    
+  }
+  .playicon i{
+   margin-left: 15px;
+
+  }
+  #towatch{
+    font-size: 23px;
+  }
+  #bottle{
+  display: block;
+  }
+  .rightside{
+    width: 50%;
+    top: 170px;
+    margin-right: 130px;
+    
+  }
+  #hom{
+    border-style: dashed;
+    border-color: grey;
+    padding: 10px;
+    
+  }
+  #per{
+    font-size: 50px;
+  }
+  .items{
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 500;
+
+  }
+  .leftside{
+    width: 50%;
+    top: 170px;
+    margin-left: 130px;
+  }
+  .container{
+    display: flex;
+    margin-top: 40px;
+    
+
+  }
+  .customerse{
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .Comp{
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .Socials{
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .Profile{
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .company{
+    display: flex;
+    gap: 80px;
+    color: gray;
+    margin-top: 150px;
+    margin-right: 130px;
+
+  }
+  #Ikea{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #Dipt{
+    font-size: 50px;
+
+  }
+  #solidp{
+    margin-top: -20px;
+  }
+  #Dese{
+    font-size: 50px;
+  }
+  #benuta{
+    font-size: 50px;
+  }
+  #Winc{
+    font-size: 50px;
+  }
+  
+  .Items{
+    display: flex;
+    gap: 70px;
+  }
+.Products{
+   margin-top: 150px; 
+}
+#ele{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Container2{
+   position: relative;
+   left: 130px;
+   display: flex;
+   
+}
+#new{
+    color: red;
+    font-size: 20px;
+    font-weight: 500;
+}
+.lvc{
+    display: flex;
+    gap: 150px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.rough{
+    display: flex;
+    gap: 150px;
+}
+
+#best{
+    gap: 20px;
+}
+#roughearth{
+    width: 300px;
+    margin-bottom: 100px;
+    
+}
+#nordic{
+    width: 300px;
+    margin-bottom: 135px;
+   
+}
+#ceramic{
+    width: 300px;
+    margin-bottom: 36px;
+    
+}
+#largeceramic{
+    width: 300px;
+    margin-bottom: 90px;
+}
+
+
+.restyle{
+    margin-top: 200px;
+    margin-left: 450px;
+}
+#space{
+    font-size: 50px;
+}
+#spacecont{
+    margin-left: 150px;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.items{
+    display: flex;
+    margin-left: 130px;
+    gap: 50px;
+    margin-right: 130px;
+}
+.proficon{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    rotate: 30deg;
+    color: white;
+   display: flex;
+   gap: 20px;
+    
+
+    
+}
+.seller{
+    margin-left: 130px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    display: flex;
+    gap: 980px;
+    font-size: 20px;
+    font-weight: 500;
+}
+#button{
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+    padding: 15px 20px;
+    margin: 4px 2px;
+    height: 90px;
+    width: 220px;
+    font-size: 20px;
+    border-color: black;
+}
+.cont{
+   display: flex;
+   margin-top: 300px;
+ 
+}
+.ls{
+    width: 50%;
+    margin-left: 130px; 
+    
+  }
+.rs{
+    width: 50%;
+    margin-right: 130px;
+    font-size: 20px;
+    font-weight: 500;
+   
+}
+#dis{
+    font-size: 50px;
+}
+#fb{
+
+    height: 600px;
+    width: 400px;
+    
+}
+#th{
+    font-size: 50px;
+}
+.pieces{
+    display: flex;
+    margin-top: 300px;
+    margin-left: 130px;
+}
+.tapp{
+    width: 50%;
+    top: 170px;
+    font-size: 20px;
+   font-weight: 500;
+}
+.tomford{
+    width: 50%;
+    top: 170px;
+}
+.offer{
+    margin-top: 200px;
+    margin-left: 450px;
+}
+.icons{
+    margin-top: 300px;
+    display: flex;
+    gap: 50px;
+    margin-left: 130px;
+    margin-right: 130px;
+    font-size: 20px;
+   font-weight: 500;
+}
+.reviews{
+    margin-top: 300px;
+    margin-left: 450px;
+    margin-bottom: 200px;
+}
+.bot{
+    display: flex;
+    gap: 200px;
+    margin-top: 200px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.vasers{
+    width: 50%;
+    margin-left: 50px; 
+    margin-top: 300px; 
+    font-size: 20px;
+    font-weight: 500; 
+}
+.halfvase{
+    display: flex;
+}
+.vasels{
+   width: 50%; 
+   margin-top: 100px;
+   margin-left: 130px;
+   margin-top: 200px;
+   
+}
+#arther{
+    display: flex;
+    gap: 70px;
+    
+}
+#numarrow{
+    display: flex;
+    gap: 450px;
+}
+.bottompage{
+    display: flex;
+    gap: 800px;
+    margin-top: 200px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 200px;
+    font-size: 20px;
+    font-weight: 500;
+}
+#testimonials{
+    font-size: 50px;
+   
+}
+.tophead{
+    display: flex;
+    gap: 100px;
+}
+
+
+
+#opinions{
+    margin-left: 250px;
+    font-size: 20px;
+    font-weight: 500;
+}
+#offeryou{
+    font-size: 50px;
+}
+#shopping{
+    margin-left: 180px;
+    font-size: 20px;
+    font-weight: 500;
+}
+#tomvase{
+    width: 450px;
+    height: 70opx;
+}
